@@ -9,7 +9,7 @@ You can watch his talk [Flink's Table & DataStream API: A Perfect Symbiosis](htt
 
 # How to Use This Repository
 
-1. Import this repository into your IDE (preferably IntelliJ IDEA). The project uses the latest Flink 1.15.1 version.
+1. Import this repository into your IDE (preferably IntelliJ IDEA). The project uses the latest Flink 1.15 version.
 
 2. All examples are runnable from the IDE or SBT. You simply need to execute the `main()` method of every example class.
    Command line example:

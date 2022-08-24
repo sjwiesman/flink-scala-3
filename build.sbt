@@ -8,7 +8,7 @@ resolvers += Resolver.mavenLocal
 
 javacOptions ++= Seq("-source", "11", "-target", "11")
 
-val flinkVersion = "1.15.1"
+val flinkVersion = "1.15.2"
 libraryDependencies += "org.apache.flink" % "flink-streaming-java" % flinkVersion
 libraryDependencies += "org.apache.flink" % "flink-clients" % flinkVersion
 libraryDependencies += "org.apache.flink" % "flink-table-planner-loader" % flinkVersion
